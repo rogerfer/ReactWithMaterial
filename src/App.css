@@ -1,0 +1,32 @@
+body {
+  background-color: #B2A895;
+  padding-top: 100px;
+}
+
+.modifyAvatar{
+  display: inline-block;
+  text-decoration: none;
+  background-color: white;
+  padding: 11px 25px;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+.modifyAvatar:hover {
+  text-decoration: none;
+}
+
+.btn-primary {
+background-color: teal;
+border: none;
+}
+
+.btn-primary:hover {
+  background-color: gold;
+  color: black;
+}
+
+.modifyAvatar{
+  color:black;
+  text-transform: uppercase;
+}
